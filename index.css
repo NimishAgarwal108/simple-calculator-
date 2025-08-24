@@ -45,7 +45,6 @@
 #uni6{
   background-color: red;
 }
-/* ...existing code... */
 
 @media (max-width: 500px) {
   #calc {
