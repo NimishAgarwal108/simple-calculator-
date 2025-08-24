@@ -1,0 +1,44 @@
+#calc{
+  border: 1px solid rgb(165, 163, 163);
+  border-radius: 5px;
+  width:200px;
+  background-color: black;
+}
+#display{
+  margin:10px;
+  width: 165px;
+  font-size: 60px;
+  isplay: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.button{
+  width:50px;
+  height:50px;
+  margin:3px;
+  background-color: blue;
+  
+}
+.buttons{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#uni{
+  background-color: red;
+}
+#uni1{
+  width: 106px;
+}
+#uni3{
+  background-color: red;
+}
+#uni4{
+  background-color: red;
+}
+#uni5{
+  background-color: red;
+}
+#uni6{
+  background-color: red;
+}
